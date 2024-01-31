@@ -42,15 +42,21 @@
   
 
 ## 📊 My stats
+<p align="left">
+  <a href="https://github.com/sifat07" style="display:flex;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifat07&theme=blueberry" alt="Sifat's GitHub Contribution"/>       
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sifat07&theme=blueberry" alt="Sifat's GitHub Contribution"/>
+  </a>
+</p>
 
-![Sifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifat07&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sifat07&theme=dark&background=000000)](https://git.io/streak-stats)
+![Sifat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sifat07&custom_title=Activity%20Graph&bg_color=0D1117&color=18A558&line=18A558&point=18A558&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Sifat07&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31e4i2jbupkazsil5l2qewylnn6a">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31e4i2jbupkazsil5l2qewylnn6a" alt="Data Card for Spotify">
+</a>
 
