@@ -9,7 +9,7 @@
 🌱 I’m currently learning Express, Fastify.<br><br>
 💬 Ask me about **UI Development, React**
 
-[![](https://visitcount.itsvg.in/api?id=Sifat07&icon=3&color=12)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=sifat07&color=18A558&style=for-the-badge)
 
 ## 🌐 Socials:
 <div style="display: flex;">
