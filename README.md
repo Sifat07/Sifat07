@@ -43,9 +43,9 @@
 
 ## 📊 My stats
 <p align="left">
-  <a href="https://github.com/sifat07" style="display:flex;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifat07&theme=blueberry" alt="Sifat's GitHub Contribution"/>       
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sifat07&theme=blueberry" alt="Sifat's GitHub Contribution"/>
+  <a href="https://github.com/sifat07" style="display:flex; align-items: center; border:1px solid red;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifat07&theme=blueberry" alt="Sifat's GitHub Contribution" width="65%"/>       
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sifat07&theme=blueberry" alt="Sifat's GitHub Contribution" width="31.8%"/>
   </a>
 </p>
 
